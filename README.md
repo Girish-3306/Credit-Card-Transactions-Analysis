@@ -1,4 +1,4 @@
-## SQL Project on Credit Card Transactions Analysis
+## SQL Project on Credit Card Transactions Analysis.
 
 This project provides an in-depth analysis of credit card transactions made in India using SQL.
 
